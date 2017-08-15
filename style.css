@@ -1,16 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Exo|Gloria+Hallelujah|Indie+Flower|Just+Another+Hand|Nunito+Sans|PT+Sans+Narrow|Sedgwick+Ave+Display');
 header {
   border-top: 5px solid pink;
   border-bottom: 2px dotted silver;
   padding-top: 10px;
+  font-family: 'Cantarell', sans-serif;
+}
+
+main {
+  font-family: 'Cantarell', sans-serif;
 }
 
 footer {
-  background-color: grey;
+  background-color: #606060;
   color: white;
   padding-top: 15px;
   border-top: 3px solid pink;
   font-size: 9px;
   margin-top: 25px;
+  font-family: 'Cantarell', sans-serif;
 }
 
 .date {
@@ -36,4 +43,5 @@ footer {
 img {
   padding-bottom: 5px;
   padding-top: 35px;
+  width: 100%;
 }
