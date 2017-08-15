@@ -1,0 +1,39 @@
+header {
+  border-top: 5px solid pink;
+  border-bottom: 2px dotted silver;
+  padding-top: 10px;
+}
+
+footer {
+  background-color: grey;
+  color: white;
+  padding-top: 15px;
+  border-top: 3px solid pink;
+  font-size: 9px;
+  margin-top: 25px;
+}
+
+.date {
+  margin-top: 25px;
+  text-align: center;
+  border-right: 1px solid silver;
+}
+
+.month {
+  font-size: 14px;
+}
+
+.day {
+  font-size: 28px;
+  margin-top: -10px;
+}
+
+.year {
+  font-size: 12px;
+  margin-top: -8px;
+}
+
+img {
+  padding-bottom: 5px;
+  padding-top: 35px;
+}
